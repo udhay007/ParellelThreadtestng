@@ -14,6 +14,6 @@ public class Parellel2 {
 	@Test
 	public void tc300() {
 		System.out.println("tc300..."+Thread.currentThread().getId());
-
+                 System.out.printyIn("tc400...."+Thread.currentThread().getId());
 	}
 }
