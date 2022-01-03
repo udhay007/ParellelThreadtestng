@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="335" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="335" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+      <class name="org.test.Parallel3">
+        <test-method status="PASS" signature="tc2000()[pri:0, instance:org.test.Parallel3@cb644e]" name="tc2000" duration-ms="86" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2000 -->
+        <test-method status="PASS" signature="tc3000()[pri:0, instance:org.test.Parallel3@cb644e]" name="tc3000" duration-ms="77" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3000 -->
+        <test-method status="PASS" signature="tc1000()[pri:0, instance:org.test.Parallel3@cb644e]" name="tc1000" duration-ms="87" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1000 -->
+      </class> <!-- org.test.Parallel3 -->
+      <class name="org.test.Parellel2">
+        <test-method status="PASS" signature="tc100()[pri:0, instance:org.test.Parellel2@56ef9176]" name="tc100" duration-ms="4" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc100 -->
+        <test-method status="PASS" signature="tc200()[pri:0, instance:org.test.Parellel2@56ef9176]" name="tc200" duration-ms="29" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc200 -->
+        <test-method status="PASS" signature="tc300()[pri:0, instance:org.test.Parellel2@56ef9176]" name="tc300" duration-ms="6" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc300 -->
+      </class> <!-- org.test.Parellel2 -->
+      <class name="org.test.Parellel">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.test.Parellel@13805618]" name="tc2" duration-ms="86" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.test.Parellel@13805618]" name="tc1" duration-ms="74" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.test.Parellel@13805618]" name="tc3" duration-ms="5" started-at="2021-12-29T08:31:10Z" finished-at="2021-12-29T08:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.test.Parellel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
